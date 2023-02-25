@@ -2,7 +2,6 @@
 a = []
 unique = []
 duplicate = []
-flag = 0
 
 # taking array input
 n = int(input("Enter the number of elements of the array: "))
